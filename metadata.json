@@ -1,0 +1,6 @@
+{
+  "name": "나노바나나 AI 스튜디오 (NanoBanana AI Studio)",
+  "description": "나노바나나 기반 일관성 유지 이미지 합성, 오래된 사진 복원 및 컬러화, 여권사진 및 스튜디오 사진 제작, 인생 앨범 변환 전문 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
